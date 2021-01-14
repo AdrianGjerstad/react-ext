@@ -1,0 +1,19 @@
+{
+  "name": "react-extension",
+  "version": "0.1.0",
+  "description": "Node.js React component extension repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianGjerstad/react-ext.git"
+  },
+  "author": "Adrian Gjerstad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AdrianGjerstad/react-ext/issues"
+  },
+  "homepage": "https://github.com/AdrianGjerstad/react-ext#readme"
+}
