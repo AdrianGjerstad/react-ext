@@ -1,5 +1,5 @@
 {
-  "name": "react-extension",
+  "name": "@adgjerstad/react-extension",
   "version": "0.1.0",
   "description": "Node.js React component extension repository",
   "main": "index.js",
